@@ -1,4 +1,4 @@
-# EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-
+![244159877-8ead363c-7b62-42de-8918-2493fdf96696](https://github.com/SivaramakrishnanBaskar/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/119476322/484b0d52-bcff-4abd-a398-a6e777d2de76)# EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-
  
 ## Aim: 
 To  configure  the Application server and visualize the data on the dashboard 
@@ -38,7 +38,8 @@ As the application server market matures, high performance becomes a stronger cr
  ![image](https://github.com/vasanthkumarch/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/36288975/4becc339-c77e-4568-9b79-aeaed3734169)
 
  8. save to update the visualization on the dashboard as shown in the output
-    
+![244159877-8ead363c-7b62-42de-8918-2493fdf96696](https://github.com/SivaramakrishnanBaskar/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/119476322/0ebb4b26-1a68-4a8b-920d-5ce3920303fe)
+
 ## OUTPUT 
 ![wind](https://github.com/SivaramakrishnanBaskar/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/119476322/1ad743b4-a10a-4829-81c7-4d46135fdde7)
 
