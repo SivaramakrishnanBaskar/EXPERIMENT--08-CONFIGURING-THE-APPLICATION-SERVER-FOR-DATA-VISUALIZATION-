@@ -37,21 +37,8 @@ As the application server market matures, high performance becomes a stronger cr
  7. Using the visualization editor modify as per the requirements 
  ![image](https://github.com/vasanthkumarch/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/36288975/4becc339-c77e-4568-9b79-aeaed3734169)
 
- 8. save to update the visualization on the dashboard as shown in the output 
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
+ 8. save to update the visualization on the dashboard as shown in the output
+    
 ## OUTPUT 
 ![wind](https://github.com/SivaramakrishnanBaskar/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/119476322/1ad743b4-a10a-4829-81c7-4d46135fdde7)
 
