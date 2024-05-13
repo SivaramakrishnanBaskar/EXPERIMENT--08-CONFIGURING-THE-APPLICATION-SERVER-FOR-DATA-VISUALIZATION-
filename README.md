@@ -1,4 +1,10 @@
+### Date: 09/04/2024
+### Name: Sivaramakrishnan  B
+### Reg No: 212222110044
+### Dept: CSE(Iot)
+
 # EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION- 
+
 ## Aim: 
 To  configure  the Application server and visualize the data on the dashboard 
 
